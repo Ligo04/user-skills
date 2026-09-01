@@ -1,0 +1,3 @@
+interface:
+  display_name: "Portable Zsh Config"
+  short_description: "Summarize portable Zsh setup for Linux and macOS"
