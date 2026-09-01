@@ -34,4 +34,4 @@ zsh-config-summary/
 └── amro.omp.json
 ```
 
-The bundled prompt uses icon glyphs; a Nerd Font is recommended when applying it to a terminal.
+Use [Maple Mono NF](https://github.com/subframe7536/maple-font) for the bundled prompt; the NF variant provides the icon glyphs used by the theme.
